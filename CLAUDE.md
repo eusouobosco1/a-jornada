@@ -1,14 +1,53 @@
-# Claude Code OS — Kit Ratos de IA
+# A Jornada — Claude Code OS
 
-Este repositório é o kit de boas-vindas do curso Claude Code OS.
+## O que é esse workspace
 
-Se você acabou de clonar esse repositório:
-1. Rode `/setup` pra configurar o sistema pro seu negócio (uns 5 minutos)
-2. Depois rode `/mapear` pra criar skills personalizadas pro que você faz no dia a dia
+Workspace da marca pessoal de Bosco (@eusouobosco). Aqui ele produz conteúdo, opera o sistema Waterfall e toca a estratégia da Jornada.
+
+**Estrutura de pastas:**
+- `_contexto/` — memória do sistema (não apagar)
+- `conteudo/` — produção por tipo (carrosseis, newsletters, roteiros)
+- `projetos/` — projetos internos da Jornada
+- `marca/` — identidade visual e design guide
+- `dados/` — arquivos pra análise (CSV, PDF, etc)
+- `templates/skills/` — templates de skills prontos pra personalizar com /mapear
+- `templates/ferramentas/catalogo.md` — APIs e ferramentas disponíveis pra usar em skills
+- `tarefas.md` — lista de tarefas corrente
+
+## Sobre o negócio
+
+Bosco é João Bosco Monteiro, criador de conteúdo sobre desenvolvimento masculino, fé, família e empreendedorismo. A marca é @eusouobosco, o projeto central é "A Jornada". Trabalha com ~2h/dia enquanto está no CLT (Rillsoft). A esposa Maysa (@maysamontei) é parceira no Montei Studio, projeto separado.
+
+## O que mais fazemos aqui
+
+- Rodar o sistema Waterfall: transcrição bruta → YouTube, Substack, LinkedIn, Instagram
+- Criar carrosseis e visuais com o design system (fundo `#0C0C0C`, accent `#C9A053`, Poppins 800)
+- Planejar e organizar a estratégia de conteúdo da Jornada
+- Desenvolver e iterar os agentes do Opensquat (squad waterfall-jornada)
+
+## Público
+
+Homens jovens (~22 anos) e maduros (~34-35 anos) que buscam um irmão mais velho que já deu alguns passos — sobre vida, família, fé e empreendedorismo.
+
+## Tom de voz
+
+Irmão mais velho. Direto, "Pá-Pum". Confrontacional com propósito, acolhedor na forma. Real e vulnerável. Frases curtas, sem enrolação.
+
+Nunca: coach genérico, autoajuda vazia, superlativos inflados, Red Pill agressivo, espiritualidade new age, motivacional vazio.
+
+## Posicionamento
+
+"A jornada é o que importa." — frase de encerramento obrigatória em todo conteúdo.
+Documenta a própria jornada. Não é guru — é quem está no caminho e compartilha o que aprendeu.
+
+## Ferramentas conectadas
+
+- [x] Claude Code
+- [x] Opensquat (squad waterfall-jornada operacional)
+- [ ] Playwright MCP (necessário pra renderizar PNGs dos slides)
+- [ ] Google Calendar
 
 ---
-
-<!-- Este arquivo será atualizado pelo /setup com o contexto do seu negócio. -->
 
 ## Contexto do negócio
 
